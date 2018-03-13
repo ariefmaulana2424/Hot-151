@@ -1,0 +1,17 @@
+1. GA + paket
+
+Rule :
+	1. Eligible unuk SP Regular & SP Flash
+	2. XL only ( axis ga dapet )
+	3. GA + Non Flash Sale minimal 25 ribu
+	4. Poin Hadiah = 50.000 ( harga paket minimum 25 ribu )
+	5. maksimal reload + 30 hari setelah ir
+	6. cuma beli paket pertama yang akan dihitung sebagai poin
+
+Validation:
+	1. Check XL number ( DONE )
+	2. Check 1st transaction of #B number ( done )
+	3. Check Trx_Date Max D+30 since IR ( done )
+	4. check minimum paket 25k dan paket non flash sale ( done )
+        5. check poin = 50.000
+
